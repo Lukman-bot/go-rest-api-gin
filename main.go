@@ -1,6 +1,7 @@
 package main
 
 import (
+	"github.com/lukman-bot/go-rest-api-gin/controllers/productcontroller"
 	"github.com/lukman-bot/go-rest-api-gin/models"
 	"github.com/gin-gonic/gin"
 )
